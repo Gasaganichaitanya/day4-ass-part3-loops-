@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\bin\Debug\ConApp ass5 part3(Loops).exe.config
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\bin\Debug\ConApp ass5 part3(Loops).exe
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\bin\Debug\ConApp ass5 part3(Loops).pdb
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\obj\Debug\ConApp ass5 part3(Loops).csproj.AssemblyReference.cache
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\obj\Debug\ConApp ass5 part3(Loops).csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\obj\Debug\ConApp ass5 part3(Loops).exe
+D:\mphasis\assignments\day4\part3 loops\ConApp ass5 part3(Loops)\ConApp ass5 part3(Loops)\obj\Debug\ConApp ass5 part3(Loops).pdb
